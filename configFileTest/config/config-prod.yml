@@ -1,0 +1,8 @@
+server:
+  port: 8081
+
+profile:
+  active: dev
+
+
+test_variable: "Fagan is here with config file"

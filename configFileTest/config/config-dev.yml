@@ -1,0 +1,8 @@
+server:
+  port: 8080
+
+profile:
+  active: prod
+
+
+test_variable: "Fagan is here with config file"
